@@ -1,1 +1,3 @@
 12_REACTGRAM/backend/.env   
+node_modules
+package-lock.json
